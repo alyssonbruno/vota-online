@@ -1,0 +1,5 @@
+.venv
+.fake-banco.db
+__pycache__
+.blockchain.db
+.idea
